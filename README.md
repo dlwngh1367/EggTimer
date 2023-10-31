@@ -6,4 +6,4 @@ To develop this app, I used Swift Dictionaries collection type and controlled th
 When it comes to Swift UI, the progress view and the appropriate formula were applied to the UI, and AVFoundation and AVaudio Player library were also used to play alarm sounds.
 
 
-https://github.com/dlwngh1367/EggTimer/assets/107776511/98328fcf-4e02-4ba9-ad71-7659a5bea630
+https://github.com/dlwngh1367/EggTimer/assets/107776511/e87d1cb2-dfef-411d-912c-aedb0644b424
